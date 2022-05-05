@@ -96,7 +96,14 @@
 						<div class="main-area">
 							<div class="main-menu">
 								<ul>
-									<li><a href="">Inicio</a></li>
+									<li><a href="">Ingresar</a>
+										<ul>
+											<li>
+												<a href="login.php" target="_blank" rel="noopener noreferrer">Ingresar</a>
+												<a href="admin.php" target="_blank" rel="noopener noreferrer">Ingresar Administrador</a>
+											</li>
+										</ul>
+									</li>
 									<li><a href="">Conózcanos</a>
 										<ul>
 											<li><a href="about.php" target="_blank">Nosotros</a></li>
